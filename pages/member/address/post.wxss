@@ -1,0 +1,4 @@
+@import "../../common/city-picker.wxss";
+.right_btn{
+  font-size: 28rpx;
+}
